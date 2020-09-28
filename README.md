@@ -1,6 +1,19 @@
-# Ola-mundo
- Primeiro repositório versionado
+# Olá Mundo
 
- Repositório teste do curso de Git/GitHub
+## Primeiro repositório versionado
+
+### Repositório teste do curso de Git/GitHub
+
+---
  
- Essa linha eu adicionei diretamente no site
+Essa linha eu adicionei diretamente no site
+ 
+Estou __*testando*__ a linguagem ~~Markup~~ **Markdown**
+ 
+Lista numerada:
+ 
+1. Teste
+1. Teste2
+1. Teste3
+4. Teste4
+ 
